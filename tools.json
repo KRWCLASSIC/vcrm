@@ -1,0 +1,9 @@
+{
+    "7zip": {
+        "7zr": "https://7-zip.org/a/7zr.exe",
+        "7z_extra": "https://7-zip.org/a/7z2301-extra.7z"
+    },
+    "wix": {
+        "url": "https://github.com/wixtoolset/wix3/releases/download/wix3111rtm/wix311-binaries.zip"
+    }
+} 
