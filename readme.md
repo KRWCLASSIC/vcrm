@@ -5,4 +5,5 @@ With help of [KemoNine's blog](https://blog.kemonine.info/blog/2024-11-07-window
 
 ## Notes
 
-When forcing to download older versions, its unable to unpack them.
+When forcing to download older versions, its unable to unpack them. (Recommended to use with -nc)
+To check all available arguments, use `--help` or `-h`
