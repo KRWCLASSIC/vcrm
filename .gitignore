@@ -1,4 +1,5 @@
 fetch_vcdist.py
+__pycache__/
 vcruntimes/
 downloads/
 core/
