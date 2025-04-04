@@ -1,5 +1,7 @@
 # VCRM `Visual C++ Runtime Manager`
 
+> For now project is left in unknown state, i don't remember what is happening there and why i used venv, i plan to remake it from ground up with one .py file, from little testing before pushing that readme looks like it _somehow_ works.
+
 Based on work of [donno](https://github.com/donno)  
 With help of [KemoNine's blog](https://blog.kemonine.info/blog/2024-11-07-windows-vc-redist/)
 
